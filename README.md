@@ -26,10 +26,6 @@ Welcome to the Student Management System project! This powerful ASP.NET Core 6 w
 
 * We welcome contributions! If you find any issues or have enhancements in mind, please open an issue or submit a pull request.
 
-### License 📝
-
-* This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments 🙏
 
 Special thanks to the ASP.NET Core, Entity Framework, and Toastr communities for their fantastic tools and resources!
@@ -43,7 +39,7 @@ Contributors names and contact info
 Shahzad Hasan
 * [@ShahzadHasan](https://github.com/shahzadhasann)
 
+### License 📝
 
-## License
+* This project is licensed under the MIT License - see the LICENSE file for details.
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
